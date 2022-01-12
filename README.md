@@ -62,7 +62,7 @@ QR_Decomposition(a)
 
 ## Output
 
-![output](https://github.com/ragulmani936/QRdecomposition/blob/main/Screenshot%20.png?raw=true)
+![output]
 
 
 ## Result
