@@ -23,8 +23,6 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 
 ## Program:
 ### Gram-Schmidt Method
-```
-''' 
 Program to QR decomposition using the Householder reflection method
 Developed by:Ragul M
 RegisterNumber:21500303 
@@ -62,13 +60,11 @@ QR_Decomposition(a)
 
 
 
-```
 
 ## Output
-```
-![QRdecomposition](https://github.com/ragulmani936/QRdecomposition/blob/main/Screenshot%20.png?raw=true)
 
-```
+![output](https://github.com/ragulmani936/QRdecomposition/blob/main/Screenshot%20.png?raw=true)
+
 
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
