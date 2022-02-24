@@ -26,6 +26,7 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 Program to QR decomposition using the Householder reflection method
 Developed by:Ragul M
 RegisterNumber:21500303 
+~~~
 import numpy as np
 def QR_Decomposition(A):
     n,m = A.shape
@@ -52,7 +53,7 @@ def QR_Decomposition(A):
     print(R)
 a = np.array(eval(input()))
 QR_Decomposition(a)
-
+~~~
 
 
 
